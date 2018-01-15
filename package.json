@@ -1,0 +1,26 @@
+{
+  "name": "noto-fontface-cjk-jp",
+  "version": "1.0.0",
+  "description": "A simple package providing the Noto CJK Japanese font.",
+  "main": "css/noto/noto-fontface-cjk-jp.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladjerca/noto-fontface-cjk-jp.git"
+  },
+  "keywords": [
+    "noto",
+    "font",
+    "fontface",
+    "cjk",
+    "jp"
+  ],
+  "author": "Vlad Jerca",
+  "license": "SEE LICENSE IN './fonts/LICENSE_OFL.txt'",
+  "bugs": {
+    "url": "https://github.com/vladjerca/noto-fontface-cjk-jp/issues"
+  },
+  "homepage": "https://github.com/vladjerca/noto-fontface-cjk-jp#readme"
+}
