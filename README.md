@@ -2,6 +2,10 @@
 ---
 A simple package providing the [Noto CJK Japanese](https://www.google.com/get/noto/#sans-jpan). The font was created by Google Inc.
 
+## Installation
+
+`npm i noto-fontface-cjk-jp`
+
 ## Usage
 ---
 There're several files in the `css/` subdirectory. Import them in your project to have access to "Roboto" font face:
