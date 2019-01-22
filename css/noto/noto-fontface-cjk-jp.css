@@ -3,7 +3,7 @@
 	src: url('../../fonts/Noto/NotoSansCJKjp-Thin.otf');
 	font-weight: 100;
 	font-style: normal;
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
@@ -11,7 +11,7 @@
 	src: url('../../fonts/Noto/NotoSansCJKjp-Light.otf');
 	font-weight: 300;
 	font-style: normal;
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
@@ -19,7 +19,7 @@
 	src: url('../../fonts/Noto/NotoSansCJKjp-Regular.otf');
 	font-weight: 400;
 	font-style: normal;
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
@@ -27,7 +27,7 @@
 	src: url('../../fonts/Noto/NotoSansCJKjp-Medium.otf');
 	font-weight: 500;
 	font-style: normal;
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
@@ -35,47 +35,47 @@
 	src: url('../../fonts/Noto/NotoSansCJKjp-Bold.otf');
 	font-weight: 700;
     font-style: normal;
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Black';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Black.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Thin';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Thin.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Light';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Light.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Regular';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Regular.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Medium';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Medium.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Bold';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Bold.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
 
 @font-face {
 	font-family: 'Roboto-Black';
 	src: url('../../fonts/Noto/NotoSansCJKjp-Black.otf');
-	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-9FAF;
+	unicode-range: U+3000-30FF, U+FF00-FFEF, U+4E00-56FC, U+56FE-9FAF;
 }
